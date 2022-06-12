@@ -236,6 +236,10 @@ header {
     margin: 2%;
     width: 200%;
   }
+  
+  .title p {
+   font-size:.9rem;
+  }
 }
 
 /* Media Queries for Mobile phones 330 and less  */
@@ -263,4 +267,9 @@ header {
     margin: 0;
     width: 180%;
   }
+  .photo {
+    height: 200px;
+  }
+ .title p {
+   font-size:.9rem;
 }
