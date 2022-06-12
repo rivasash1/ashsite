@@ -36,6 +36,12 @@ h2 {
   color: #37E2D5;
 }
 
+h3 {
+  font-size:1.5rem;
+  color: #37E2D5;
+  text-align: match-parent;
+}
+
 p {
   font-size: 1.5rem;
   color: #4d4d4d;
@@ -130,6 +136,22 @@ header {
 
 .email {
   text-align: center;
+}
+
+.portfolio-container {
+  display:flex;
+  padding: 5%;
+}
+.title {
+  text-align: left;
+}
+
+.title p {
+  font-size: 1rem;
+}
+
+.title a {
+  color: #37E2D5;
 }
 
 /* Media Queries for tablet */
