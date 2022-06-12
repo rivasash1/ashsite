@@ -208,6 +208,12 @@ header {
     width: 100%;
     margin-left: 20%;
   }
+    
+  .portfolio-container {
+   display:flex;
+   flex-direction: column;
+   padding: 5%;
+  }
 }
 
 /* Media Queries for Mobile phones 430 and less  */
