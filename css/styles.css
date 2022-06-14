@@ -243,6 +243,12 @@ header {
    flex-direction: column;
    padding: 5%;
   }
+  
+  .portfolio-container2 {
+   display:flex;
+   flex-direction: column;
+   padding: 5%;
+  }
 }
 
 /* Media Queries for Mobile phones 430 and less  */
