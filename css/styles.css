@@ -154,6 +154,34 @@ header {
   color: #37E2D5;
 }
 
+.photo1 {
+  width: 100%;
+  height: 100%;
+}
+
+.portfolio-container2 {
+  display:flex;
+  flex-direction: row-reverse;
+  padding: 5%;
+}
+
+.title2 {
+  text-align: left;
+}
+
+.title2 p {
+  font-size: 1rem;
+}
+
+.title2 a {
+  color: #37E2D5;
+}
+
+.photo2 {
+  width: 100%;
+  height: 100%;
+}
+
 /* Media Queries for tablet */
 @media screen and (max-width: 786px) {
   h1 {
