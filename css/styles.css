@@ -302,9 +302,16 @@ header {
     margin: 0;
     width: 180%;
   }
-  .photo {
+  .photo-1 {
     height: 200px;
   }
  .title p {
    font-size:.9rem;
+  }
+  .photo-2 {
+    height: 200px;
+  }
+ .title2 p {
+   font-size:.9rem;
+  }
 }
